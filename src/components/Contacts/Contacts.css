@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.contacts{
+    max-width: 940px;
+    margin: auto;
+}
+
+.massage_inp{
+    resize: none;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.email_inp{
+    width: 50%;                                                                            
+}
+

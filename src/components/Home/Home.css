@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.home{
+    max-width: 940px;
+    margin: auto;
+
+}
+
+.home_title{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.home_descr{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.home_photo{
+    width: 100%;
+    border-radius: 5px;
+}

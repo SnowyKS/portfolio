@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.header{
+    max-width: 940px;
+    margin: auto;
+    border-bottom: 1px solid #828282;
+    padding: 32px 0px;
+    margin-bottom: 20px;
+}
+
+.list{
+margin: 0;
+padding: 0;
+list-style: none;
+display: flex;
+justify-content: space-between;
+width: 100%;
+}
+
+.list_item{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 23px;
+    
+}

@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+.about{
+    max-width: 940px;
+    margin: auto;
+    background-color: #f6f6f6;
+    padding: 50px;
+    text-align: center;
+}
+
+.about_title{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.about_descr{
+    margin: 0;
+    margin-bottom: 20px;
+    max-width: 500px;
+    margin: auto;
+}
